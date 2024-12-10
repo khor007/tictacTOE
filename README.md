@@ -1,2 +1,1 @@
-# tictacTOE
-Just tic tac toe
+To play it you have to download a the whole folder with 3 files: toe.exe, ....
